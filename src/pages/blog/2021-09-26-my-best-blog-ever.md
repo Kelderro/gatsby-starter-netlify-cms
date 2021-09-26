@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My best blog ever!
+title: My best blog ever!X
 date: 2021-09-26T10:24:10.560Z
 description: sdjfoisjdfoisjdfoiasjdfoisjdfoij oigj sdfoig jsdfg oisdjfg iosdfjgdsoifjgdsfoig
 featuredpost: true
